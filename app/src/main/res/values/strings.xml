@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloKotlin</string>
+    <string name="filter_list">过滤list</string>
+    <string name="test_when">测试when</string>
+    <string name="use_map">使用map</string>
+    <string name="use_try_catch">使用tryCatch</string>
+</resources>
